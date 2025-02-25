@@ -1,0 +1,62 @@
+h1{
+    text-align: center;
+    font-size: 35px;
+    margin-top: 30px;
+}
+div{
+    text-align: center;
+    max-width: 1000px;
+    margin: auto;
+    background: rgba(255, 255, 255, 0.3);
+    padding: 15px;
+}
+.img1{
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+.img2{
+    width: 20%;
+    display: block;
+    margin: 10px;
+    float: left;
+}
+.img3{
+    width: 40%;
+    display: block;
+    margin: 10px;
+    float: right;
+}
+.img4{
+    width: 25%;
+    display: block;
+    margin: auto;
+    float: left;
+}
+
+#goBack
+{
+	width: 150px;
+	height: 30px;
+	background-color: white;
+	text-align: center;
+    font-weight: bold;
+    font-family: Tahoma;
+	position:relative;
+	top: 10px;
+	margin: auto;
+	border-radius: 20px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	font-size: 18pt;
+	padding: 15px;
+
+}
+#goBack a
+{
+	text-decoration: none;
+	color:black;
+}
+#goBack:hover
+{
+	background-color: lightblue;
+}
